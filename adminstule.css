@@ -1,0 +1,41 @@
+.innerdivi{
+    text-align: center;
+    margin: 100px;
+}
+
+.logoimg{
+    
+    float: center;
+}
+
+
+.leftdivi{
+    float: left;
+    width: 25%;
+}
+
+.btn{
+    
+    color: white;
+    background-color: green;
+    width: 95%;
+    height: 40px;
+    margin-top: 8px;
+}
+.rightinnerdiv{
+    float: right;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    
+}
+.h4{
+    background-color: green;
+}
+.details{
+    text-align: left;
+    margin-top: 8px;
+}
+.btnprimary{
+    color: white;
+}
