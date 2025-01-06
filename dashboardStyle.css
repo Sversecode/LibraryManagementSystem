@@ -1,0 +1,59 @@
+body{
+    background-color: bisque;
+   }
+.innerdivi{
+    text-align: center;
+    margin: 100px;
+}
+.btn{
+    background-color: green;
+    width: 90%;
+    margin:5px;
+    color: white;
+}
+
+.leftdivi{
+    float: left;
+    width: 25%;
+}
+
+.btn:hover{
+    background-color: lightcoral;
+}
+
+input{
+    margin: 10px;
+}
+.btnprimary{
+    color: black;
+    }
+.btnprimary:hover{
+    background-color: red;
+    
+}
+.rightinnerdivportion{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.rightinnerdiv{
+    float: right;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    
+}
+.h4{
+    background-color: green;
+}
+.details{
+    text-align: left;
+    margin-top: 8px;
+}
+.btnprimary{
+    color: black;
+}
+
+input{
+    margin: 10px;
+}
